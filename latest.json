@@ -1,8 +1,8 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "critical": false,
-  "notes": "Downloads now resume if interrupted, and Settings shows update progress.",
-  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.0.3/eon-1.0.3.eonpkg",
-  "sha256": "3120c79596e7bef3915ac9632012ff8add056d91a39f179aafed0646b0849d40",
-  "size": 59801048
+  "notes": "Dummy update to test the updater.",
+  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.0.4/eon-1.0.4.eonpkg",
+  "sha256": "33f66ad31d65904c7b7bebfa1281b95b010016200ed66f1cef54260fb882e69a",
+  "size": 59838984
 }
