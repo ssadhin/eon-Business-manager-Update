@@ -1,8 +1,8 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "critical": false,
-  "notes": "Dummy update to test the updater.",
-  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.0.4/eon-1.0.4.eonpkg",
-  "sha256": "33f66ad31d65904c7b7bebfa1281b95b010016200ed66f1cef54260fb882e69a",
-  "size": 59838984
+  "notes": "Bangla text now renders instead of showing empty boxes, and the update installer is more reliable.",
+  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.0.5/eon-1.0.5.eonpkg",
+  "sha256": "0cec154eb10440d8c23190091f7c0c54c78dc7a65c4c0e803b765f6d2c206203",
+  "size": 59809272
 }
