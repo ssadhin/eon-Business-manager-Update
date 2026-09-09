@@ -1,8 +1,8 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "critical": false,
   "notes": "Test update.",
-  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.0.8/eon-1.0.8.eonpkg",
-  "sha256": "1909a115f453750235f8245499282f3ddea2af42646179502fa54a9ab03c65db",
-  "size": 59814680
+  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.0.9/eon-1.0.9.eonpkg",
+  "sha256": "a64f2559f954e1cc872755e506fab102596495f0c7d5c1ac216c6a70c20f46b9",
+  "size": 59815448
 }
