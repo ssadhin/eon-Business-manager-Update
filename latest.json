@@ -1,8 +1,8 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "critical": false,
-  "notes": "Fixes updates never installing when the app folder path contains a space.",
-  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.0.7/eon-1.0.7.eonpkg",
-  "sha256": "7f9efd1ab2bde68e379600712f2be1273d08c351a07f9b026252b6874c60554d",
-  "size": 59833512
+  "notes": "Test update.",
+  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.0.8/eon-1.0.8.eonpkg",
+  "sha256": "1909a115f453750235f8245499282f3ddea2af42646179502fa54a9ab03c65db",
+  "size": 59814680
 }
