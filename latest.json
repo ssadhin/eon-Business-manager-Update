@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "critical": false,
+  "notes": "First release with the built-in updater.",
+  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.0.0/eon-1.0.0.eonpkg",
+  "sha256": "dcb572283148e31771e5b690f707d4107b5d1d7e6be5f53f89b97a5bf76940cf",
+  "size": 59792424
+}
