@@ -1,8 +1,8 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "critical": false,
-  "notes": "Redesigned top bar: search, notifications, subscription and profile/settings now sit together in the top-right corner, with the page name on the left; controls slide smoothly out of the way when search opens instead of vanishing.",
-  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.2.1/eon-1.2.1.eonpkg",
-  "sha256": "7860ec6cab5397c28db8389369736191811f49b10567483affce2f6ed6f6d866",
-  "size": 62603000
+  "notes": "Fixed the top-bar layout: the notification/subscription/search/profile cluster now sits a proportional 5% gap from the true right corner (it was floating with a large, unintended gap), and a fully expanded search box no longer overlaps the profile/settings button.",
+  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.2.2/eon-1.2.2.eonpkg",
+  "sha256": "1f1e42fca02238321486f03eaab8e774bcfed55086079593b932a4967fae0bc3",
+  "size": 62603592
 }
