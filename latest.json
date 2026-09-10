@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "critical": false,
-  "notes": "Redesigned top bar: notifications, subscription plan badge, quick search, and a refreshed profile/settings.",
-  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.2.0/eon-1.2.0.eonpkg",
-  "sha256": "c363ef6708e83b51feb9a42b0c14291ab8ab2d6650000f55ec3d493148800984",
-  "size": 62652312
+  "notes": "Redesigned top bar: search, notifications, subscription and profile/settings now sit together in the top-right corner, with the page name on the left; controls slide smoothly out of the way when search opens instead of vanishing.",
+  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.2.1/eon-1.2.1.eonpkg",
+  "sha256": "7860ec6cab5397c28db8389369736191811f49b10567483affce2f6ed6f6d866",
+  "size": 62603000
 }
