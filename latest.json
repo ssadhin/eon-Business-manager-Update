@@ -3,6 +3,6 @@
   "critical": false,
   "notes": "Fixed the top-bar layout: the notification/subscription/search/profile cluster now sits a proportional 5% gap from the true right corner (it was floating with a large, unintended gap), and a fully expanded search box no longer overlaps the profile/settings button.",
   "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.2.2/eon-1.2.2.eonpkg",
-  "sha256": "1f1e42fca02238321486f03eaab8e774bcfed55086079593b932a4967fae0bc3",
+  "sha256": "a2945bad5fc487104b80acc75014d69e38f25bc42fb82dab077ea62c4f8e1bc5",
   "size": 62603592
 }
