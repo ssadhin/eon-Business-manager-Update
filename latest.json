@@ -1,8 +1,8 @@
 {
-  "version": "1.2.2",
-  "critical": false,
-  "notes": "Fixed the top-bar layout: the notification/subscription/search/profile cluster now sits a proportional 5% gap from the true right corner (it was floating with a large, unintended gap), and a fully expanded search box no longer overlaps the profile/settings button.",
-  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.2.2/eon-1.2.2.eonpkg",
-  "sha256": "a2945bad5fc487104b80acc75014d69e38f25bc42fb82dab077ea62c4f8e1bc5",
-  "size": 62603592
+  "version": "1.2.3",
+  "critical": true,
+  "notes": "Fixes orders and other records silently reverting when two computers saved at the same time, and adds Settings > Activity log so you can see who changed what.",
+  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.2.3/eon-1.2.3.eonpkg",
+  "sha256": "e6d6b6fbfb593e3e8cb9b38025f6ee526fa596617c786a5f9d1db710699d6450",
+  "size": 62735896
 }
