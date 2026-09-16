@@ -1,8 +1,8 @@
 {
-  "version": "1.2.8",
+  "version": "1.2.9",
   "critical": false,
-  "notes": "Animated Eon Admin/Employee login, Setup AI recovery, and updater rollback protection.",
-  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.2.8/eon-1.2.8.eonpkg",
-  "sha256": "5e37d4cc268b0b3383bb0effe49b250515c384895fc5f21c312614e735804feb",
-  "size": 156820920
+  "notes": "Login role choice refinement: initial screen shows only Admin and Employee; Google sign-in appears only after Admin is selected; Employee reveals username/password.",
+  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.2.9/eon-1.2.9.eonpkg",
+  "sha256": "1f7bcf1d8cc2604a50a12b9f402c27ab8515a5797a6c96980a14a1e26094a344",
+  "size": 156727672
 }
