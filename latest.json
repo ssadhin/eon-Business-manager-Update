@@ -1,8 +1,8 @@
 {
-  "version": "1.2.10",
+  "version": "1.2.9",
   "critical": false,
-  "notes": "Simplified Orders table settings: direct drag-to-reorder column names, compact remove controls, removed the mini-map and pixel counts, reduced unused dialog space, and restored a visible Table icon beside the label. Repaired dependency caches and made future builds self-heal stale backend and Pub cache dependencies.",
-  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.2.10/eon-1.2.10.eonpkg",
-  "sha256": "22e1b047eb20548d72c5d42cea27be4333118f84a8687aa41b8c1e1e198e57e5",
-  "size": 157245432
+  "notes": "Login role choice refinement: initial screen shows only Admin and Employee; Google sign-in appears only after Admin is selected; Employee reveals username/password.",
+  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.2.9/eon-1.2.9.eonpkg",
+  "sha256": "1f7bcf1d8cc2604a50a12b9f402c27ab8515a5797a6c96980a14a1e26094a344",
+  "size": 156727672
 }
