@@ -1,8 +1,8 @@
 {
-  "version": "1.2.10",
-  "critical": false,
-  "notes": "Simplified Orders table settings: direct drag-to-reorder column names, compact remove controls, removed the mini-map and pixel counts, reduced unused dialog space, and restored a visible Table icon beside the label. Repaired dependency caches and made future builds self-heal stale backend and Pub cache dependencies.",
-  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.2.10/eon-1.2.10.eonpkg",
-  "sha256": "ecf55ccf0b858e33cd6a5ac2030c5612f6c853005e9b1ac190385b4d5485cc40",
-  "size": 157245432
+    "version":  "1.2.12",
+    "critical":  false,
+    "notes":  "Adds full custom dashboard theme colors and lets Eon recommend and apply themes after owner confirmation.",
+    "url":  "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.2.12/eon-1.2.12.eonpkg",
+    "sha256":  "d074910ffa0c9ca2df27571714a868142f031688e85364cbfbda0ca93918c988",
+    "size":  157553512
 }
