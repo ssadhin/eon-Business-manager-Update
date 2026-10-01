@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.12",
-    "critical":  false,
-    "notes":  "Adds full custom dashboard theme colors and lets Eon recommend and apply themes after owner confirmation.",
-    "url":  "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.2.12/eon-1.2.12.eonpkg",
-    "sha256":  "d074910ffa0c9ca2df27571714a868142f031688e85364cbfbda0ca93918c988",
-    "size":  157553512
+  "version": "1.2.13",
+  "critical": false,
+  "notes": "Live voice, AI attachments and dictation, customer voice messages, Special theme motion and table control refinements.",
+  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.2.13/eon-1.2.13.eonpkg",
+  "sha256": "067d979ef360d6e01e970d3e31ef9af5e29de27f67ac4e215ab04bbb2c7d2f9c",
+  "size": 157681928
 }
