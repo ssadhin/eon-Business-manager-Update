@@ -1,8 +1,8 @@
 {
-  "version": "1.2.13",
+  "version": "1.2.14",
   "critical": false,
-  "notes": "Live voice, AI attachments and dictation, customer voice messages, Special theme motion and table control refinements.",
-  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.2.13/eon-1.2.13.eonpkg",
-  "sha256": "067d979ef360d6e01e970d3e31ef9af5e29de27f67ac4e215ab04bbb2c7d2f9c",
-  "size": 157681928
+  "notes": "Special sidebar pocket now blends with the page canvas, hover expansion with labels restored, and Customers uses the same Filter Sort Table controls as Orders.",
+  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.2.14/eon-1.2.14.eonpkg",
+  "sha256": "a643bb728691445bccd7bca1f0f35529f61924164f14efe3cc8f2fb95d4e4ec3",
+  "size": 157681656
 }
