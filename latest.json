@@ -1,8 +1,8 @@
 {
-  "version": "1.2.14",
+  "version": "1.2.15",
   "critical": false,
-  "notes": "Special theme active-tab surface blend correction. Existing hover expansion and shared Orders/Customers table controls retained.",
-  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.2.14/eon-1.2.14.eonpkg",
-  "sha256": "e6a809b6f35c78da50aa8a2c63b7adb09a1380616ee1d28bd8c5ddb1c29f38f4",
-  "size": 111512008
+  "notes": "Customer workspace polish: Orders-style customer tags and Table placement, Mark all with category and AI marking, filters inside Search, adaptive 3-5s auto-refresh, and sidebar clipping fix.",
+  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.2.15/eon-1.2.15.eonpkg",
+  "sha256": "4dd30722dc9c921d69e25cd26028d28ae1b251e6d8841baf97979f76cc67b40c",
+  "size": 157708280
 }
