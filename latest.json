@@ -1,8 +1,8 @@
 {
   "version": "1.2.14",
   "critical": false,
-  "notes": "Special theme tab pocket blend, hover-expand sidebar labels, and Orders-matched Customer filter/sort/table controls.",
+  "notes": "Special theme active-tab surface blend correction. Existing hover expansion and shared Orders/Customers table controls retained.",
   "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.2.14/eon-1.2.14.eonpkg",
-  "sha256": "03859542133e17f504d1db7904d9754b2477a8fe4963fbf293f81d537d09ab1d",
+  "sha256": "e6a809b6f35c78da50aa8a2c63b7adb09a1380616ee1d28bd8c5ddb1c29f38f4",
   "size": 111512008
 }
