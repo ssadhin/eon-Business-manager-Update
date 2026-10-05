@@ -1,8 +1,8 @@
 {
-  "version": "1.2.15",
+  "version": "1.3.0",
   "critical": false,
-  "notes": "Customer workspace polish: Orders-style customer tags and Table placement, Mark all with category and AI marking, filters inside Search, adaptive 3-5s auto-refresh, and sidebar clipping fix.",
-  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.2.15/eon-1.2.15.eonpkg",
-  "sha256": "4dd30722dc9c921d69e25cd26028d28ae1b251e6d8841baf97979f76cc67b40c",
-  "size": 157708280
+  "notes": "Includes the latest EON business tools, voice-aligned demo, subscription controls, and a standalone Windows installer.",
+  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.3.0/eon-1.3.0.eonpkg",
+  "sha256": "3eb29b93290611e1ca5eb0895288712469fc0e4fdef1968283500862fada66f1",
+  "size": 140018888
 }
