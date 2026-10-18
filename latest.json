@@ -1,8 +1,8 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "critical": false,
-  "notes": "Includes the latest EON business tools, voice-aligned demo, subscription controls, and a standalone Windows installer.",
-  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.3.0/eon-1.3.0.eonpkg",
-  "sha256": "3eb29b93290611e1ca5eb0895288712469fc0e4fdef1968283500862fada66f1",
-  "size": 140018888
+  "notes": "EON voice calls: completed questionnaire remembered; first-call language and voice choice; Innocent persona; owner-call memory style parameters.",
+  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.3.1/eon-1.3.1.eonpkg",
+  "sha256": "6ae644ab06cbeb88fd3be560d4b7901301a43239f8509a40c7ee85825ff452e8",
+  "size": 142639352
 }
