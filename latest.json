@@ -1,8 +1,8 @@
 {
-  "version": "1.3.3",
-  "critical": false,
-  "notes": "Zero-click self-installing Windows Local Server (eonbot-server.exe) bundled in EON-AUTO-Setup.exe and standalone, with immediate background daemon and auto-restart on Windows login.",
-  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.3.3/eon-1.3.3.eonpkg",
-  "sha256": "ed82b72f29a5737cce271b574ae9260adc810310561c232dd4adb1774e71339d",
-  "size": 142981160
+  "version": "1.3.4",
+  "critical": true,
+  "notes": "Security-hardened Windows Local Server (eonbot-server.exe v1.3.4): RS256 cloud-signed entitlement & ban verification, strict CORS/Private Network origin allowlist, and verified bearer sessions.",
+  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.3.4/eon-1.3.4.eonpkg",
+  "sha256": "765ed03b188353045dac26857aa8b862b68fec2be5f758978cbe194857b250cd",
+  "size": 151885464
 }
