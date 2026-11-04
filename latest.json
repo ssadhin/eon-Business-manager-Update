@@ -1,8 +1,8 @@
 {
-  "version": "1.3.1",
+  "version": "1.3.3",
   "critical": false,
-  "notes": "EON voice calls: completed questionnaire remembered; first-call language and voice choice; Innocent persona; owner-call memory style parameters.",
-  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.3.1/eon-1.3.1.eonpkg",
-  "sha256": "6ae644ab06cbeb88fd3be560d4b7901301a43239f8509a40c7ee85825ff452e8",
-  "size": 142639352
+  "notes": "Zero-click self-installing Windows Local Server (eonbot-server.exe) bundled in EON-AUTO-Setup.exe and standalone, with immediate background daemon and auto-restart on Windows login.",
+  "url": "https://github.com/ssadhin/eon-Business-manager-Update/releases/download/v1.3.3/eon-1.3.3.eonpkg",
+  "sha256": "ed82b72f29a5737cce271b574ae9260adc810310561c232dd4adb1774e71339d",
+  "size": 142981160
 }
